@@ -16,10 +16,4 @@ Once you have installed the dependencies, run the application using the followin
 node index.js
 ```
 
-the app will run on the port 1937
-
-This will start the application and you should see the output in the terminal .
-
-   
-
-Feel free to adjust the content as needed for your application!
+the app will run on the port 1937.
